@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a full stack software developer, mainly using Flask and Angular. But most of my apps are just clusterf*cks of technology I found interesting.
+
+Develop technology responsible and put the user first. :)
+
 <!--
 **I-develop-bugs-for-a-living/I-develop-bugs-for-a-living** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
