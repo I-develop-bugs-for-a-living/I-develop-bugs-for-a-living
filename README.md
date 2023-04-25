@@ -3,9 +3,10 @@
 
 I'm currently working on my startup. We are developing a social app for student living communities.
 
-I am a full stack software developer, mainly using Flask and Angular. But most of my apps are just clusterf*cks of technology I found interesting.
+I am a full stack software developer/AI Engineer, mainly using Flask and Angular. But most of my apps are just clusterf*cks of interesting technology I found on the internet.
+On my profile you will find a collection of projects related to AI, Webdevelopment and Scripts to troll your friends.
 
-Develop technology responsible and put the user first. :)
+Develop and use technology responsible and put the user first. :)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jan-bühne-430b3a18b) 
